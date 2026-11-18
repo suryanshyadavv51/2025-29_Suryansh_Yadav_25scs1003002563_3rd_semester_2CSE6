@@ -15,33 +15,6 @@ This repository contains the complete source code, documentation, and technical 
 The internship focused on building robust, modular, and persistent console-based software applications using **Modern C++ (C++17/20)**, **Object-Oriented Programming (OOP)**, **File Handling Streams (`fstream`)**, and **Algorithmic State Machines**.
 
 ---
-
-## 📂 Repository Structure
-
-```plaintext
-📦 Cpp-Internship-Thiranex
- ┣ 📂 01_Student_Management_System
- ┃ ┣ 📜 main.cpp
- ┃ ┣ 📜 student.h / student.cpp
- ┃ ┗ 📜 README.md
- ┣ 📂 02_Bank_Management_Application
- ┃ ┣ 📜 main.cpp
- ┃ ┣ 📜 account.h / account.cpp
- ┃ ┗ 📜 README.md
- ┣ 📂 03_Library_Management_System
- ┃ ┣ 📜 main.cpp
- ┃ ┣ 📜 library.h / library.cpp
- ┃ ┗ 📜 README.md
- ┣ 📂 04_Mini_Game_Project
- ┃ ┣ 📜 tic_tac_toe.cpp
- ┃ ┣ 📜 snake_game.cpp
- ┃ ┗ 📜 README.md
- ┣ 📂 Docs
- ┃ ┣ 📜 Internship_Report.pdf
- ┃ ┗ 📜 Certificate_Thiranex.pdf
- ┣ 📜 .gitignore
- ┣ 📜 CMakeLists.txt / Makefile
- ┗ 📜 README.md
 ```
 🛠️ Tasks & Projects Summary
 #	Project Name	Due Date	Status	Key Highlights
@@ -67,13 +40,35 @@ Mini Game Project (Tic Tac Toe)
 29 Aug 2026	✅ Completed	2D State Matrix, Game Loops, Win/Loss Graph Evaluation
 
 
-> 🏆 Key Takeaways & Skills Mastered
-Object-Oriented Design: Encapsulation, Abstraction, Polymorphism, and RAII principles.
-File Serialization: Writing and reading structured records using C++ file streams (fstream).
-Input Hardening: Safeguarding console input streams (cin.fail(), cin.ignore(), buffer flushing) against invalid types.
-Algorithmic Thinking: State evaluation, board rendering, indexing, and multi-parameter searching.
-Git Workflow: Clean commit hygiene, milestone-driven branching, and technical documentation.
----
+##📌 About This Repository
+
+This repository contains my academic work, practical assignments, projects, and learning materials completed during the third semester of my B.Tech in Computer Science and Engineering.
+
+It serves as a collection of my programming practice, coursework, and academic progress.
+
+##📂 Repository Contents
+
+* Programming practicals and lab assignments
+* Data Structures and Algorithms implementations
+* C and C++ programming exercises
+* Academic projects and documentation
+* Internship documents and certificates
+* Coursework and study materials
+
+##🛠️ Technologies Used
+
+* C
+* C++
+* Python
+* Git and GitHub
+
+##🎯 Learning Objectives
+
+* Strengthen programming fundamentals.
+* Develop problem-solving skills.
+* Understand data structures and algorithms.
+* Gain practical software development experience.
+* Build a portfolio of academic and technical work
 
 
 
